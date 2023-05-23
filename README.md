@@ -14,7 +14,7 @@ To install just download the files<em> Pdf-check-fraud-plagiarism </em> extract 
 Links to the corresponding codes, which are stored in the [https://github.com/jansloopes/Pdf-check-fraud-plagiarism/tree/master/Sources]() folder.
 
 # 3. PDF comparison to detect fraud <a name="motivation"></a>
- Program checks simularity of pdf files to detect fraud and Plagiarism. The program provides the user with an interface in which s/he can  enter data for the directory where the PDF files are located and the location of the converted text files. These text files are compared and the results are written to a csv file. The result file is located in the directory where the program resides. 
+ Program checks similarity of pdf files to detect fraud and Plagiarism. The program provides the user with an interface in which s/he can  enter data for the directory where the PDF files are located and the location of the converted text files. These text files are compared and the results are written to a csv file. The result file is located in the directory where the program resides. 
  To start the program click on:
 <em>
 Pdf-check-fraud-plagiarism.exe
